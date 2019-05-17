@@ -67,7 +67,8 @@
     "@react-navigation/core": "^3.0.0",
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": "*"
+    "react-native-gesture-handler": "*",
+    "@react-native-community/async-storage": "*",
   },
   "jest": {
     "preset": "react-native",
